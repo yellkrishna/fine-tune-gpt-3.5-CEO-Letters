@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to identify the existence of specific dimensions in letters written by CEOs to shareholders using OpenAI's language model. The model is fine-tuned using provided training datasets and accessed through OpenAI's API. The API key for the tokens to be consumed while fine-tuning needs to be taken from the OpenAI website and replace the current api_key variable with your key in the Fine-Tuning section of each model provided in the App folder. The accuracy of the model is evaluated using both in-sample and out-of-sample data.
+This project aims to identify the existence of specific dimensions in letters written by CEOs to shareholders using OpenAI's language model. The model is fine-tuned using provided training datasets and accessed through OpenAI's API. The API key for the tokens to be consumed while fine-tuning needs to be taken from the OpenAI website and the current api_key variable needs to be replaced with your key in the Fine-Tuning section of each model provided in the App folder. The accuracy of the model is evaluated using both in-sample and out-of-sample data.
 
 ## Methodology
 
